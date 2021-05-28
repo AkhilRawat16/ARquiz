@@ -8,4 +8,3 @@ Online quiz application
 ![Screenshot_2021-05-28-22-57-20-43_a69425835fb2f99fcb1e4ebf9c4c4354](https://user-images.githubusercontent.com/72660252/120022070-809ddc80-c009-11eb-9dae-04248adcad2d.jpg)
 ![Screenshot_2021-05-28-22-57-32-86_a69425835fb2f99fcb1e4ebf9c4c4354](https://user-images.githubusercontent.com/72660252/120022080-8398cd00-c009-11eb-8cb4-7a9d57ad07fc.jpg)
 ![Screenshot_2021-05-28-22-57-58-05_a69425835fb2f99fcb1e4ebf9c4c4354](https://user-images.githubusercontent.com/72660252/120022093-8693bd80-c009-11eb-9c2a-121e81cfcbb5.jpg)
-![Screenshot_2021-05-28-22-58-21-20_a69425835fb2f99fcb1e4ebf9c4c4354](https://user-images.githubusercontent.com/72660252/120022104-898eae00-c009-11eb-943e-104c5a8f004f.jpg)
